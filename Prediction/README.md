@@ -1,2 +1,0 @@
-# NY House Price Prediction
- 
