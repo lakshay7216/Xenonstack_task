@@ -1,0 +1,50 @@
+.TH SYSOPCTL 1 "August 2024" "sysopctl v0.1.0"
+.SH NAME
+sysopctl \- Custom Linux system management command
+.SH SYNOPSIS
+.B sysopctl
+[OPTION] [ARGUMENT]
+.SH DESCRIPTION
+.B sysopctl
+is a custom command designed to manage system services, processes, and system health.
+.SH OPTIONS
+.TP
+.BR --help
+Show help information about the command and its usage.
+.TP
+.BR --version
+Display the version of the sysopctl command.
+.TP
+.BR service list
+List all active services.
+.TP
+.BR service start \ <service-name>
+Start a specified service.
+.TP
+.BR service stop \ <service-name>
+Stop a specified service.
+.TP
+.BR system load
+Display the current system load.
+.TP
+.BR disk usage
+Show disk usage statistics by partition.
+.TP
+.BR process monitor
+Monitor system processes in real-time.
+.TP
+.BR logs analyze
+Analyze recent critical system logs.
+.TP
+.BR backup \ <path>
+Backup specified directory or file to the backup destination.
+.SH EXAMPLES
+.TP
+.B sysopctl --help
+Display the help message.
+.TP
+.B sysopctl service list
+List all currently active services.
+.TP
+.B sysopctl backup /home/user/data
+Backup the directory /home/user/data.
