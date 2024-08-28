@@ -50,6 +50,9 @@ Screenshots:
 Main Page:
 ![image](https://github.com/user-attachments/assets/dc82b3a4-dace-463b-9741-2d72be11e3a8)
 
+Predicted Price Demo:
+![image](https://github.com/user-attachments/assets/237eabff-21ac-49b6-ac50-374a6b7aef35)
+
 Dummy Property Listings Page:
 ![image](https://github.com/user-attachments/assets/cdd9a114-82bc-4602-b629-50f9525bb0d1)
 
