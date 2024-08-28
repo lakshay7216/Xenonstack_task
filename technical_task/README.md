@@ -1,4 +1,4 @@
-# NY House Price Prediction
+![image](https://github.com/user-attachments/assets/ae466348-9bee-443f-bc42-d0bb7de9bbe8)# NY House Price Prediction
  
 
 ### 3. README for `technical_task` Folder
@@ -48,10 +48,12 @@ The site has been hosted for live access at lakshay7216.pythonanywhere.com. Visi
 
 Screenshots:
 Main Page:
-![image](https://github.com/user-attachments/assets/65122708-6ffb-4c78-9784-c4f917010031)
+![image](https://github.com/user-attachments/assets/dc82b3a4-dace-463b-9741-2d72be11e3a8)
 
 Dummy Property Listings Page:
-![image](https://github.com/user-attachments/assets/a2f1a85d-a7c3-46df-b325-f807882d248a)
+![image](https://github.com/user-attachments/assets/cdd9a114-82bc-4602-b629-50f9525bb0d1)
 
 Dummy Login Page:
+![image](https://github.com/user-attachments/assets/876d1ceb-0f5b-4cc6-a300-80e8ac85ccb7)
+
 
