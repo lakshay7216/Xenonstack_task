@@ -9,11 +9,11 @@ This folder contains all the files and resources for the Technical Task, which i
 
 ## Contents
 
-- `index.html`: The main HTML file for the site.
+- `app.html`: The main HTML file for the site.
+- `listings.html`: The listings for the site.
+- `login.html`: The login file for the site.
 - `styles.css`: The stylesheet for styling the HTML page.
-- `script.js`: JavaScript file containing functionality.
-- `requirements.txt`: Python dependencies needed to run the web server.
-- `app.py`: The Python Flask application that serves the site.
+- `server.py`: Python file containing functionality and serves the site.
 
 ## Task Description
 
@@ -32,31 +32,26 @@ To run the project locally, follow these steps:
 
 It is recommended to use a virtual environment to manage dependencies.
 
-```bash
-python3 -m venv venv
-source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 
-
-Install Dependencies
-Install the required dependencies using the requirements.txt file:
-
-bash
-pip install -r requirements.txt
-
-Run the Flask Application
+## Run the Flask Application
 Start the Flask server by running:
 
-bash
-python server.py
-The server will start at http://127.0.0.1:5000/. You can access the site by opening this URL in your web browser.
+     ```bash
+     python server.py
+     The server will start at http://127.0.0.1:5000/. You can access the site by opening this URL in your web browser.
 
 Site Hosting
 The site has been hosted for live access at lakshay7216.pythonanywhere.com. Visit this link to view the live application.
 
-Folder Structure
-index.html: Contains the main HTML structure of the web application.
-styles.css: Provides styling for the web pages.
-script.js: Handles client-side scripting and functionality.
-app.py: The backend Flask application serving the web content.
-requirements.txt: Lists the Python dependencies necessary to run the application.
+Screenshots:
+Main Page:
+![image](https://github.com/user-attachments/assets/65122708-6ffb-4c78-9784-c4f917010031)
+
+Dummy Property Listings Page:
+![image](https://github.com/user-attachments/assets/a2f1a85d-a7c3-46df-b325-f807882d248a)
+
+Dummy Login Page:
 
